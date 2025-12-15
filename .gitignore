@@ -10,6 +10,3 @@ test/*
 
 # Virtual environments
 .venv
-*.jpg
-*.png
-*.json
